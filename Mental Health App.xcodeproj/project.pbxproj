@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4B29E6BE257C41CC007107DD /* Mental Health App in Resources */ = {isa = PBXBuildFile; fileRef = C9446CF6241716EE0049E180 /* Mental Health App */; };
 		C9446CFA241716EE0049E180 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9446CF9241716EE0049E180 /* AppDelegate.swift */; };
 		C9446CFC241716EE0049E180 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9446CFB241716EE0049E180 /* SceneDelegate.swift */; };
 		C9446CFE241716EE0049E180 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9446CFD241716EE0049E180 /* ViewController.swift */; };
@@ -144,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C9446D06241716F10049E180 /* LaunchScreen.storyboard in Resources */,
+				4B29E6BE257C41CC007107DD /* Mental Health App in Resources */,
 				C9446D03241716F10049E180 /* Assets.xcassets in Resources */,
 				C9446D01241716EE0049E180 /* Main.storyboard in Resources */,
 			);
