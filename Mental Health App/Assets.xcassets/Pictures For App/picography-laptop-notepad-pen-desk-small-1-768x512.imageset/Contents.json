@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "picography-laptop-notepad-pen-desk-small-1-768x512.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
