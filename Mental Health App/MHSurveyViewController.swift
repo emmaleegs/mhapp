@@ -170,7 +170,7 @@ class MHSurveyViewController: UIViewController {
         // ----- UPDATES ------ //
         //Upload fileURL to local MAMP server
         func uploadData(_ sender: Any){
-            let url = URL(string: "http://localhost:8888/mental_health_app/receive_survey.php") // locahost MAMP - change to point to your database server
+            let url = URL(string: "http://web.ics.purdue.edu/~seversoe/receive_survey.php") // locahost MAMP - change to point to your database server
             
             var request = URLRequest(url: url!)
             request.httpMethod = "POST"
